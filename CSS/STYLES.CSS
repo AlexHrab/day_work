@@ -141,7 +141,7 @@ header .container {
       rgba(17, 17, 17, 0.4),
       rgba(17, 17, 17, 0.4)
     ),
-    url("./images/hero-bg1x_375.jpg");
+    url("../images/hero-bg1x_375.jpg");
   background-size: cover;
   background-position: center;
   padding: 395px 22px 20px 20px;
@@ -155,7 +155,7 @@ header .container {
         rgba(17, 17, 17, 0.4),
         rgba(17, 17, 17, 0.4)
       ),
-      url("./images/hero-bg2x_375.jpg");
+      url("../images/hero-bg2x_375.jpg");
   }
 }
 
@@ -1303,7 +1303,7 @@ input:focus-within + svg {
         rgba(17, 17, 17, 0.4),
         rgba(17, 17, 17, 0.4)
       ),
-      url("./images/hero-bg1x_1200.jpg");
+      url("../images/hero-bg1x_1200.jpg");
   }
 
   @media (min-resolution: 192dpi) {
@@ -1312,7 +1312,7 @@ input:focus-within + svg {
           rgba(17, 17, 17, 0.4),
           rgba(17, 17, 17, 0.4)
         ),
-        url("./images/hero-bg2x_1200.jpg");
+        url("../images/hero-bg2x_1200.jpg");
     }
   }
 
