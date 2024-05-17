@@ -384,7 +384,7 @@ header .container {
       rgba(17, 17, 17, 0.4) 0%,
       rgba(17, 17, 17, 0.4) 100%
     ),
-    url("/../images/How_it’s_made1x_375.jpg");
+    url("../images/How_it’s_made1x_375.jpg");
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
@@ -394,7 +394,7 @@ header .container {
 
 @media (min-resolution: 192dpi) {
   .how-made-picture {
-    background-image: url(/../images/How_it’s_made2x_375.jpg);
+    background-image: url(../images/How_it’s_made2x_375.jpg);
   }
 }
 
@@ -1369,12 +1369,12 @@ input:focus-within + svg {
     width: 600px;
     height: 400px;
     margin: 0;
-    background-image: url(/../images/How_it’s_made1x_1200.jpg);
+    background-image: url(../images/How_it’s_made1x_1200.jpg);
   }
 
   @media (min-resolution: 192dpi) {
     .how-made-picture {
-      background-image: url(/../images/How_it’s_made2x_1200.jpg);
+      background-image: url(../images/How_it’s_made2x_1200.jpg);
     }
   }
 
